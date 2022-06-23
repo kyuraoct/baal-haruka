@@ -1,15 +1,15 @@
 {
-    "ownerNumber": ["0@s.whatsapp.net","0@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "WhatsApp Bot",
+    "ownerNumber": ["6281998903280@s.whatsapp.net"],
+    "ownerName": "Kyura",
+    "instagram" : "https://instagram.com/kyura.mp4",
+    "botName": "Raiden-Shogun",
+    "footer": "Pembantu Bot WhatsApp",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
-    "gamewaktu": 90,
+    "pathimg": "./media/baal.jpg",
+    "gamewaktu": 60,
     "limitCount": 25,
     "gcount": {
-        "prem": 35,
+        "prem": 100,
         "user": 15
     }
 }

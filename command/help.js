@@ -180,6 +180,6 @@ ${mundur}
 }
 
 exports.donate = (pushname, ownerNumber) => {
-    return`Contact  Owner:
-wa.me/62887435047326 (Owner)`
+    return`*https://saweria.co/ArdhiRahma*
+donasi disana aja yaa..semua metode pembayaran ada disana ^.^`
 }
